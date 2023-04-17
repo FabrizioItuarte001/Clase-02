@@ -1,0 +1,118 @@
+header{
+    background-color: rgba(99, 97, 97, 0.546);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+body{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1,5;
+    margin: 0;
+    padding: 0;
+    
+}
+h3{
+    color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+p{
+    color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    text-align: justify;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+}
+h4{
+    background-color: rgba(99, 97, 97, 0.546);
+    color: white;
+    text-align: left;
+    padding: 20px;
+}
+#pond {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#pond2{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contenido{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+main{
+    color: white;
+}
+#iframe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#imagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contactos{
+    background-color: bisque;
+}
+ul{
+    color: black;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgba(99, 97, 97, 0.546);
+}
+#Principal{
+    background-color:lightgoldenrodyellow;
+    color: black;
+    
+}
+#header1{
+    background-color:lightgray;
+    color: black;
+}
+#h31{
+    color: black;
+}
+#h32{
+    color: black;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    text-align: justify;
+}
+#h41{
+    background-color: lightgray;
+    color: black;
+    text-align: left;
+    padding: 20px;
+}
+#contenido1{
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+#h33{
+    color: black;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
